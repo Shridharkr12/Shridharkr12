@@ -53,25 +53,6 @@ I enjoy designing intuitive user experiences, building APIs, exploring distribut
 
 ---
 
-### 🚀 Featured Project
-
-#### FinFlow — Distributed Payment Platform
-
-A distributed full-stack payment platform designed around independent services, event-driven processing and secure transaction workflows.
-
-- Microservices for authentication, payments, wallets, fraud analysis and notifications.
-- Kafka-powered event-driven workflows.
-- Saga pattern & Transactional Outbox.
-- JWT authentication, idempotency & wallet locking.
-- Docker-based service orchestration.
-- Prometheus & Grafana monitoring.
-
-**Tech Stack:** Java 21 · Spring Boot · React · TypeScript · PostgreSQL · Kafka · Redis · Docker
-
-🔗 [View Project](https://github.com/Shridharkr12/Finflow)
-
----
-
 ### 🏆 Achievements & Community
 
 - 🥇 Smart India Hackathon 2023 — Finalist
